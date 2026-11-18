@@ -162,9 +162,3 @@ A bank's credit card portfolio is losing customers. **About 1 in 6 customers (16
 ## Skills Demonstrated
 
 `Data Visualization` · `Tableau (calculated fields, table calculations, clustering, dashboard actions, story points)` · `Exploratory Data Analysis` · `Customer Segmentation` · `Churn / Retention Analytics` · `Hypothesis-driven Analysis` · `Business Storytelling & Recommendations`
-
-## Future Work
-
-- Build a **predictive churn model** (Logistic Regression, Random Forest or XGBoost) with class-imbalance handling, and use SHAP to explain which features drive each prediction.
-- Feed model risk scores back into Tableau as a **live "at-risk customers" dashboard** for retention teams.
-- Estimate the **revenue impact** of each retention lever so the bank can prioritise campaigns by ROI.
